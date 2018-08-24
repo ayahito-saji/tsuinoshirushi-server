@@ -1,0 +1,7 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sample_user_01:
+  name: Nagoya Taro
+  level: 1
+  gold: 0
+  exp: 0
